@@ -127,9 +127,9 @@ a:hover {
 
 @media (max-width: 500px){
     h1{
-        font-size: 76px;
+        font-size: 56px;
     }
-    #weather-link {
+    .weather-link {
         padding-bottom: 20px;
     }
 }
