@@ -124,3 +124,9 @@ a:hover {
 #contact {
     margin: 48px;
 }
+
+@media (max-width: 500px){
+    h1{
+        font-size: 76px;
+    }
+}
