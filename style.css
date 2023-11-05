@@ -132,7 +132,7 @@ a:hover {
     h2{
         font-size: 38px;
     }
-    img{
-        width:75%;
+    .weather-link{
+        margin-bottom: 20px;
     }
 }
