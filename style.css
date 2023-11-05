@@ -129,6 +129,9 @@ a:hover {
     h1{
         font-size: 56px;
     }
+    h2{
+        font-size: 38px;
+    }
     .weather-link {
         padding-bottom: 20px;
     }
